@@ -1,6 +1,4 @@
-path: "path_to_model.joblib
-features: ['feature_A', 'feature_B']
-selected_features:
+path: "parkinson_model.joblib"
+features:
   - "MDVP:Fo(Hz)"
   - "PPE"
-path: "parkinson_model.joblib"
