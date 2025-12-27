@@ -1,4 +1,4 @@
-path: "parkinson_model.joblib"
+path: "my_model.joblib"
 features:
   - "MDVP:Fo(Hz)"
   - "PPE"
